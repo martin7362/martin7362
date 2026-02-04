@@ -8,10 +8,14 @@
 - **Self-Paced Learning** - Full Stack & Voiceflow Development (Learning Path)<br><br>
 - **Language Studies** - English & German (High School Level)<br><br>
 
-# 💻 Work
-- **Backend Developer at Dreamshot** - Working on and developing the backend of the games we build, I contribute by writing sustainable code, crafting precise tests, and ensuring everything runs smoothly. I collaborate closely with designers and developers, conduct code reviews, and troubleshoot technical issues.<br><br>
-- **Programming Lecturer at SoftUni** - I have the opportunity to introduce and teach a lot of new students to build their problem-solving skills and develop strong understanding of programming.<br><br>
-- **Intern Software Developer at Unimenty** - Contributed to the development of a startup platform that connects high school students with university mentors. Developed frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
+# 💻 Experience
+- **Independent Project Developer** - Focus on Full Stack & AI Automation.<br><br>
+
+Занимавам се с разработка на лични проекти и прототипи, като експериментирам с Voiceflow за създаване на чатботове и уеб технологии за изграждане на интерфейси. Фокусиран съм върху писането на чист код и автоматизация на процеси.
+
+- Academic Specialist at Ivan Vazov School - Economic Informatics Student.<br><br>
+
+Прилагам знанията си по икономическа информатика в училищни проекти, свързани с обработка на данни и бизнес логика. Развивам умения за решаване на проблеми и аналитично мислене в професионална среда.
 
 # 🚀 Top Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
