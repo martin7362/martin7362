@@ -1,20 +1,24 @@
 <h1 align="center">Hello, I'm Martin 🇧🇬</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/n-todorov508/">
-    <img align="center" alt="Nikolay's LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@n_todorov508">
-    <img align="center" alt="Nikolay's YouTube" width="32px" src="https://github.com/user-attachments/assets/d86488e9-babe-485a-b5cd-3f4a0d1a25db" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://nikolay-todorov.com">
-    <img align="center" alt="Nikolay's Website" width="30px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
-  </a>
-</p><br>
 
-# 🎓 Education
-- **Arizona State University** - Bachelor's degree in Computer Science (Undergraduate)<br><br>
-- **Software University** - Professional degree in Software Engineering (Graduated)<br><br>
-- **High School** - Second English Language High School "Thomas Jefferson" (Graduated)<br><br>
+
+🎓 Education
+ОУ „Иван Вазов“, гр. Стара Загора — Средно професионално образование
+
+Специалност: Икономическа информатика (Професия: Икономист-информатик)
+
+Статус: 10-ти клас (в процес на обучение)
+
+Ключови предмети: Информационни технологии, Икономика, Предприемачество
+
+Езици: Английски език и Немски език
+
+Independent Learning: Full Stack & Voiceflow Development
+
+Full Stack: Изучаване на технологии за Front-end и Back-end разработка.
+
+AI & Automation: Разработка на разговорни интерфейси и автоматизации чрез Voiceflow.
+
+Проекти: [Тук можеш да добавиш линк към GitHub или твой проект, ако имаш такъв].
 
 # 💻 Work
 - **Backend Developer at Dreamshot** - Working on and developing the backend of the games we build, I contribute by writing sustainable code, crafting precise tests, and ensuring everything runs smoothly. I collaborate closely with designers and developers, conduct code reviews, and troubleshoot technical issues.<br><br>
