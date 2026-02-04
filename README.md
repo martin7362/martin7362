@@ -3,22 +3,13 @@
 
 🎓 Education
 ОУ „Иван Вазов“, гр. Стара Загора — Средно професионално образование
-
 Специалност: Икономическа информатика (Професия: Икономист-информатик)
-
 Статус: 10-ти клас (в процес на обучение)
-
 Ключови предмети: Информационни технологии, Икономика, Предприемачество
-
 Езици: Английски език и Немски език
-
 Independent Learning: Full Stack & Voiceflow Development
-
 Full Stack: Изучаване на технологии за Front-end и Back-end разработка.
-
 AI & Automation: Разработка на разговорни интерфейси и автоматизации чрез Voiceflow.
-
-Проекти: [Тук можеш да добавиш линк към GitHub или твой проект, ако имаш такъв].
 
 # 💻 Work
 - **Backend Developer at Dreamshot** - Working on and developing the backend of the games we build, I contribute by writing sustainable code, crafting precise tests, and ensuring everything runs smoothly. I collaborate closely with designers and developers, conduct code reviews, and troubleshoot technical issues.<br><br>
